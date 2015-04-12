@@ -1,0 +1,19 @@
+body{
+	background: url(../img/brushed_alu.png);
+}
+.dropdown-content li > a, .dropdown-content li > span{
+	color: #1e88e5 !important;
+}
+.text-center{
+	display: block;
+	text-align: center;
+}
+.btn-center{
+	text-align: center;
+	margin:auto;
+	display: block;
+}
+.login-container{
+	border-top:4px solid #444;
+	margin-top:100px; 
+}

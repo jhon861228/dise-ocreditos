@@ -6005,7 +6005,7 @@ button:focus {
   background-color: #55aef6; }
 
 label {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: #90CAF9; }
 
 /***************************
@@ -6184,7 +6184,7 @@ textarea.materialize-textarea {
     -ms-transition: 0.2s ease-out;
     transition: 0.2s ease-out; }
   .input-field label.active {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     -webkit-transform: translateY(-140%);
     -moz-transform: translateY(-140%);
     -ms-transform: translateY(-140%);
@@ -6633,7 +6633,7 @@ input[type=checkbox]:not(:disabled) ~ .lever:active:after {
   .select-wrapper + label {
     position: absolute;
     top: -14px;
-    font-size: 0.8rem; }
+    font-size: 0.9rem; }
 
 select {
   display: none; }
